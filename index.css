@@ -1,0 +1,110 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  background: linear-gradient(
+      rgba(118, 138, 190, 0.2),
+      rgba(118, 138, 190, 0.2)
+    ),
+    linear-gradient(rgba(249, 217, 74, 0.2), rgba(249, 217, 74, 0.2)), #9f6247;
+  width: 763px;
+  height: 225px;
+}
+.tcc-seal-log-1-icon {
+  position: absolute;
+  top: 19.3px;
+  left: 29.8px;
+  border-radius: 15px;
+  width: 178.8px;
+  height: 192.9px;
+  object-fit: cover;
+}
+.tagoloan-community-college {
+  position: absolute;
+  top: 57.9px;
+  left: 226.5px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 512.6px;
+  height: 102.9px;
+}
+.bsit-1-icon,
+.crim-1-icon,
+.educ-1-icon {
+  position: absolute;
+  top: 141.4px;
+  left: 244.4px;
+  border-radius: var(--br-26xl);
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.crim-1-icon,
+.educ-1-icon {
+  left: 298px;
+}
+.crim-1-icon {
+  left: 351.7px;
+}
+.artscience-1-icon,
+.business-1-icon,
+.engineering-1-icon,
+.hm-1-icon,
+.library-1-icon,
+.midwifery-1-icon {
+  position: absolute;
+  top: 141.4px;
+  left: 405.3px;
+  border-radius: var(--br-26xl);
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.business-1-icon,
+.engineering-1-icon,
+.hm-1-icon,
+.library-1-icon,
+.midwifery-1-icon {
+  left: 459px;
+}
+.engineering-1-icon,
+.hm-1-icon,
+.library-1-icon,
+.midwifery-1-icon {
+  left: 512.6px;
+}
+.hm-1-icon,
+.library-1-icon,
+.midwifery-1-icon {
+  left: 566.3px;
+}
+.hm-1-icon,
+.library-1-icon {
+  left: 619.9px;
+}
+.library-1-icon {
+  left: 673.6px;
+}
+.group-wrapper,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 763px;
+  height: 225px;
+}
+.group-wrapper {
+  overflow: hidden;
+}
+.frame-parent {
+  width: 100%;
+  position: relative;
+  height: 225px;
+  text-align: center;
+  font-size: 36px;
+  color: #fff;
+  font-family: var(--font-anek-odia);
+}

@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-anek-odia: "Anek Odia";
+
+  /* Border radiuses */
+  --br-26xl: 45px;
+}
